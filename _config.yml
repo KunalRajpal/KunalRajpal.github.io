@@ -12,7 +12,7 @@ twitter_username: kunalrajpal_
 github_username:  KunalRajpal
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
