@@ -6,3 +6,7 @@ _site/
 .bundle/
 vendor/
 .DS_Store
+gemfiles/
+Gemfile
+Gemfile.lock
+node_modules/
