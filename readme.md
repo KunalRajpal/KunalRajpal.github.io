@@ -1,6 +1,6 @@
 # Host a resume using GitHub Pages
 
-![screen-gif](Screen Recording 2022-11-01 at 11.59.49 PM.gif)
+![screen-gif](./Screen Recording 2022-11-01 at 11.59.49 PM.gif)
 
 ## Purpose
 
