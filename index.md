@@ -6,6 +6,7 @@ layout: home
 [rajpalk@myumanitoba.ca](mailto:rajpalk@myumanitoba.ca)  •  (204) 333-3478  •  [github.com/KunalRajpal](https://github.com/KunalRajpal)  •  [Linkedin.com](https://linkedin.com/in/noahcuroe)
 
 
+
 ## Education
 
 ---
