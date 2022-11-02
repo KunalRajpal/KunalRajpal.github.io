@@ -1,5 +1,7 @@
 # Host a resume using GitHub Pages
 
+![](Screen Recording 2022-11-01 at 11.59.49 PM.gif)
+
 ## Purpose
 
 Practical steps to format and host a resume using a a lightweight markup language, and a Static Site Generating Tool. We are going to be using Markdown, a Markdown editor, GitHub Pages, and Jekyll. Further, this document will also entail general principles of current Technical Writing, as explained in Andrew Etter’s book Modern Technical Writing and relate to the practical steps which we are going to follow. 
