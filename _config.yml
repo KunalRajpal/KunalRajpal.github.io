@@ -2,10 +2,7 @@
 title: Kunal Rajpal
 email: rajpalk@myumanitoba.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Practical steps to format and host a resume using a a lightweight markup language, and a Static Site Generating Tool. 
-  We are going to be using Markdown, a Markdown editor, GitHub Pages, and Jekyll. Further, this document will also entail 
-  general principles of current Technical Writing, as explained in Andrew Etter’s book Modern Technical Writing and relate 
-  to the practical steps which we are going to follow.
+  Simple portfolio website made using Jekyll and GitHub pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "KunalRajpal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kunalrajpal_
