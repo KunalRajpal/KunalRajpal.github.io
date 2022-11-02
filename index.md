@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Kunal Rajpal
-
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/kunal-rajpal/">Linkedin</a>
 | <a href="mailto:rajpalk@myumanitoba.ca">rajpalk@myumanitoba.ca</a>
