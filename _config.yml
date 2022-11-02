@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   general principles of current Technical Writing, as explained in Andrew Etter’s book Modern Technical Writing and relate 
   to the practical steps which we are going to follow.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "KunalRajpal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kunalrajpal_
 github_username:  KunalRajpal
 
